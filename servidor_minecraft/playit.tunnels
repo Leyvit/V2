@@ -9,16 +9,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "getting-cw.gl.at.ply.gg",
+          "assigned_domain": "going-outlined.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "e0916e2f-2448-4992-b8fe-8bf84c46aeb5",
+          "id": "c1d271e8-4156-456a-89ee-41d14343bada",
           "ip_hostname": "16.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 59246,
-          "port_start": 59245,
+          "port_end": 59253,
+          "port_start": 59252,
           "region": "global",
           "static_ip4": "147.185.221.16",
           "static_ip6": "2602:fbaf:0:1::10",
@@ -26,12 +26,12 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-04-19T20:48:27.420228Z",
+      "created_at": "2025-04-19T21:05:49.828788Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "c211150f-89cb-41d8-beb8-159b9ea97f87",
+      "id": "5ca5b54d-3f7b-4bda-870b-2f54bd651e58",
       "name": "Minecraft Bedrock",
       "origin": {
         "data": {
